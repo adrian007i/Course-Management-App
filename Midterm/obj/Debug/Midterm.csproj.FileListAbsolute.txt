@@ -1,0 +1,5 @@
+C:\Users\AdrianMONK\Desktop\Visual Studio\Midterm\Midterm\bin\Midterm.dll
+C:\Users\AdrianMONK\Desktop\Visual Studio\Midterm\Midterm\bin\Midterm.pdb
+C:\Users\AdrianMONK\Desktop\Visual Studio\Midterm\Midterm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AdrianMONK\Desktop\Visual Studio\Midterm\Midterm\obj\Debug\Midterm.dll
+C:\Users\AdrianMONK\Desktop\Visual Studio\Midterm\Midterm\obj\Debug\Midterm.pdb
