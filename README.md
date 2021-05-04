@@ -1,9 +1,20 @@
 # Course-Management-App
-Create and modify courses from an external MySql database and a list provide queries.
-  - Full Stack MVC
+
+## Features
+* Create, Modify , Delete Cources for an instution
+* Assign cources to students
+* Set grades and generate reports
   
-# Platform
-  - ASP.NET
-  - C#
-  - CSS
-  - MySQL
+## Platform
+* ASP.NET
+* C#
+* CSS
+* AWS
+* SQL Server
+* Full Stack MVC
+
+
+Note:
+* Project Type: Academic
+* Year: 2017
+* Lead: Adrian John
